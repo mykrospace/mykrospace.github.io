@@ -128,7 +128,7 @@ Buttons Styles
 }
 
 .btn-block {
-  background: #24242a;
+  background: #1e404e;
   padding: 15px 0;
   font-size: 16px;
   -moz-border-radius: 0;
@@ -157,7 +157,7 @@ Buttons Styles
 Layout 
 ========================================================================== */
 .dark-bg {
-  background: #24242a;
+  background: #1e404e;
 }
 
 .light-bg {
@@ -174,7 +174,7 @@ Preloader Style
   right: 0;
   bottom: 0;
   z-index: 999999;
-  background: #24242a;
+  background: #1e404e;
 }
 .preloader i {
   color: #fff;
@@ -237,7 +237,7 @@ Navigation Style
 }
 
 .top-nav-collapse {
-  background: #24242a;
+  background: #1e404e;
 }
 .top-nav-collapse .navbar-brand {
   height: auto;
@@ -365,7 +365,7 @@ Welcome Style
 Services Style
 ========================================================================== */
 #services {
-  background: #24242a;
+  background: #1e404e;
   padding: 60px 0;
   text-align: center;
 }
@@ -476,7 +476,7 @@ Portfolio Style
 Work Process Style
 ========================================================================== */
 #work-process {
-  background: #24242a;
+  background: #1e404e;
   padding: 60px 0;
   text-align: center;
 }
@@ -508,7 +508,7 @@ Work Process Style
 Fun Facts Style
 ========================================================================== */
 #fun-facts {
-  background: #24242a;
+  background: #1e404e;
   padding: 60px 0;
   text-align: center;
 }
@@ -543,7 +543,7 @@ Fun Facts Style
 Our Team Style / About
 ========================================================================== */
 #team {
-  background: #24242a;
+  background: #1e404e;
   padding: 60px 0;
   text-align: center;
 }
@@ -644,7 +644,7 @@ Testimonials Style
 Contact Us Style
 ========================================================================== */
 #contact {
-  background: #24242a;
+  background: #1e404e;
   padding: 60px 0;
   text-align: center;
 }
@@ -686,7 +686,7 @@ Google Map Style
 Footer Map Style
 ========================================================================== */
 footer {
-  background: #24242a;
+  background: #1e404e;
   padding: 60px 0;
   text-align: center;
 }
@@ -722,7 +722,7 @@ Media Queries Style
 @media (max-width: 992px) {
   /*-- Navigation --*/
   .navbar-default {
-    background: #24242a;
+    background: #1e404e;
   }
   .navbar-default .navbar-header {
     width: 100%;
